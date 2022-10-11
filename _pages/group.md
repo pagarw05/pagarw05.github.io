@@ -28,7 +28,7 @@ permalink: /group/
 
 <font color="#154734"><b>Jacob Woo</b></font> <font color="#C69214"><b>(M.S. in Engineering Management, In Progress)</b></font>
 
-<img src="/images/group/jack-spring2022.jpg" alt="Jacob-S23" width="150" height="75" style="float: left; margin-right: 30px;">
+<img src="/images/group/Jacob Spring 2023.jpg" alt="Jacob-S23" width="150" height="75" style="float: left; margin-right: 30px;">
 
 - <b>Project</b>: Data-driven Analysis of Campaigning on Social Media Platforms
 - <b>Placement</b>: TBA
